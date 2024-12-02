@@ -1,4 +1,4 @@
-# ecmi_student_competition_2024
+# ECMI Student Competition 2024
 A repository for student competiton, organised by ECMI. It is a solution to this [task](https://ecmiindmath.org/2024/07/16/ecmi-student-competition-2024/) - spatio-temporal fog visibility modelling.
 
 Our team consists of:
