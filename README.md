@@ -7,7 +7,7 @@ Our team consists of:
 3. Igor Hołowacz,
 4. Maciej Ostapiuk,
 
-which is a group of Bachelor's Degree in Applied Mathematics students, from [WUST]((https://pwr.edu.pl/en/), [Faculty of Pure and Applied Mathematics](https://wmat.pwr.edu.pl/).
+which is a group of Bachelor's Degree in Applied Mathematics students, from [WUST](https://pwr.edu.pl/en/), [Faculty of Pure and Applied Mathematics](https://wmat.pwr.edu.pl/).
 ## Important URL-s
 
 1. [ERA5 dataset documentation](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-pressure-levels?tab=download)
