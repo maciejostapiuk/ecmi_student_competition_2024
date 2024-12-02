@@ -6,6 +6,7 @@ Our team consists of:
 2. Michał Tokarski,
 3. Igor Hołowacz,
 4. Maciej Ostapiuk,
+
 which is a group of Bachelor's Degree in Applied Mathematics students, from [WUST]((https://pwr.edu.pl/en/), [Faculty of Pure and Applied Mathematics](https://wmat.pwr.edu.pl/).
 ## Important URL-s
 
